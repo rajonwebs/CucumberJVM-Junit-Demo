@@ -1,2 +1,7 @@
-# external-e2e-automation
-This is a Java test framework for v1 apps.
+# CucumberJVM + JUnit + Maven
+Automated Google search functionality using this sample project. 
+
+Cucumber JVM
+JUnit
+Maven
+
