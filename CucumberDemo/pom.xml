@@ -6,7 +6,7 @@
 	<artifactId>Cucumber-Junit-Demo</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
-	<name>external-e2e-automation</name>
+	<name>CucumberJVM-Junit-Demo</name>
 
 	<dependencies>
 		<dependency>
